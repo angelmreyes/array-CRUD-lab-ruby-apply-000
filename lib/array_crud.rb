@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  puts Array.new(4, i*i)
+  puts Array.new(4)
   #[1, 2, 3, 4]
 end
 
